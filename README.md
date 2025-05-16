@@ -29,5 +29,5 @@ Heue habe ich an Python gearbeitet. Mein Plan war es Mp4 Dateien richtig zu form
  - [x] Aufgbaen nacholen in Modul 165
  - [ ] Python repetieren
 
-Heute habe ich an Modul 254 gearbeitet. Dabei musste ich gewisse aufgaben lösen und auch bestimmte Handlungsziele erfüllen. All das musste ich dokumentieren. Somit konnte ich dann Handlungsziel 1 abschlissen. Anschliessend habe ich ein Paar aufgaben in Modul 306 nachgeeholt, an sicch keine Schwere sache. Ich musste IPERKA nochmals repetieren und schon war ich wieder im rennen. Ja das wäre es dann auch für heute. Ich habe nur an diesen Zwei Modulen gearbeitet. ![image](https://github.com/user-attachments/assets/e0f9cef0-0cc7-4f80-9e9d-4aecf77c0354)
+Heute habe ich an Modul 254 gearbeitet. Dabei musste ich gewisse aufgaben lösen und auch bestimmte Handlungsziele erfüllen. All das musste ich dokumentieren. Somit konnte ich dann Handlungsziel 1 abschlissen. Anschliessend habe ich ein Paar aufgaben in Modul 306 nachgeeholt, an sicch keine Schwere sache. Ich musste IPERKA nochmals repetieren und schon war ich wieder im rennen. Ja das wäre es dann auch für heute. Ich habe nur an diesen Zwei Modulen gearbeitet.
 
