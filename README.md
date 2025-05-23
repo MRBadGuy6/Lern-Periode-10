@@ -26,8 +26,15 @@ Heue habe ich an Python gearbeitet. Mein Plan war es Mp4 Dateien richtig zu form
 # 16.5.25
 
  - [ ] C# repetieren
- - [x] Aufgbaen nacholen in Modul 165
+ - [x] Aufgbaben nacholen in Modul 165
  - [ ] Python repetieren
 
 Heute habe ich an Modul 254 gearbeitet. Dabei musste ich gewisse aufgaben lösen und auch bestimmte Handlungsziele erfüllen. All das musste ich dokumentieren. Somit konnte ich dann Handlungsziel 1 abschlissen. Anschliessend habe ich ein Paar aufgaben in Modul 306 nachgeeholt, an sicch keine Schwere sache. Ich musste IPERKA nochmals repetieren und schon war ich wieder im rennen. Ja das wäre es dann auch für heute. Ich habe nur an diesen Zwei Modulen gearbeitet.
 
+# 23.5.25
+
+ - [ ] auf LB 294 vorbereiten
+ - [ ] Aufgaben nacholen in Modul 165
+ - [ ] Rapisarda Modul Aufgaben nacholen
+
+Heute habe ich mich mit dem Modul 165 beschäftigt. Dort musste ich einen Datensatz in MongoDB und SQL importieren. An sich war die Aufgabe nicht schwer. Trotzdem hat das eine weile gedauert. Dann musste ich noch ein paar Befehle ausführen und das wars schon. Danach habe ich angefangen für LB 294 zu lernen. So wie ich verstanden habe ist es frontend. Ich habe die Zeit damit verbracht meine Jason kenntnisse aufzufrischen. Hoffentlich schreibe ich eine gute note. Zu guter letzt habe ich an Rapiarda Modul gearbeitert. Es ist ein grosses Projekt und erfordert viel Planung. Nächstes mal haben wir frei. 
