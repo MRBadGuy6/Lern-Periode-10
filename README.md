@@ -33,8 +33,18 @@ Heute habe ich an Modul 254 gearbeitet. Dabei musste ich gewisse aufgaben lösen
 
 # 23.5.25
 
- - [ ] auf LB 294 vorbereiten
- - [ ] Aufgaben nacholen in Modul 165
- - [ ] Rapisarda Modul Aufgaben nacholen
+ - [x] auf LB 294 vorbereiten
+ - [x] Aufgaben nacholen in Modul 165
+ - [x] Rapisarda Modul Aufgaben nacholen
 
 Heute habe ich mich mit dem Modul 165 beschäftigt. Dort musste ich einen Datensatz in MongoDB und SQL importieren. An sich war die Aufgabe nicht schwer. Trotzdem hat das eine weile gedauert. Dann musste ich noch ein paar Befehle ausführen und das wars schon. Danach habe ich angefangen für LB 294 zu lernen. So wie ich verstanden habe ist es frontend. Ich habe die Zeit damit verbracht meine Jason kenntnisse aufzufrischen. Hoffentlich schreibe ich eine gute note. Zu guter letzt habe ich an Rapiarda Modul gearbeitert. Es ist ein grosses Projekt und erfordert viel Planung. Nächstes mal haben wir frei. 
+
+# 6.6.25
+
+Heute habe ich an meinem Lebenslauf gearbeitet. Ich habe ein Mahara Profil erstellt und ebenfalls eine Webseite gecodet. Ich habe alles miteinander verlinkt und das ergebnis ist vielversprechend. Falls sie meine Webseite ansehen wollen finden sie es unter https://mrbadguy6.github.io/Cezar-Webseite/ . Ja das hat schon viel Zeit gekostet aber ich habe viel Fortschritt gemacht. Nächstes mal werde ich an den Modulen 306, 165 und an weitere zu arbeiten. 
+
+# 13.6.25
+
+ - [ ] Aufgaben von Thut Modul nachholen 
+ - [ ] Aufgaben nacholen in Modul 165
+ - [ ] Rapisarda Modul Aufgaben nacholen
