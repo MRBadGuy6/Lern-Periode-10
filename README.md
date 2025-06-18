@@ -45,6 +45,8 @@ Heute habe ich an meinem Lebenslauf gearbeitet. Ich habe ein Mahara Profil erste
 
 # 13.6.25
 
- - [ ] Aufgaben von Thut Modul nachholen 
- - [ ] Aufgaben nacholen in Modul 165
- - [ ] Rapisarda Modul Aufgaben nacholen
+ - [ ] Lebenslauf beenden
+ - [ ] 5 Firmen aussuchen
+ - [ ] Bewerbungsbrief schreiben
+
+Heute habe ich mich nur mit meinem Lebenslauf befasst. Heute ist die Deadline und ich wollte noch mein Lebenslauf noch besser gestalten und auch mein Mahara Profil erweitern. Was am meisten Zeit gekostet hat war es den Bewerbungsbrief zu schreiben den ich brauchte etwas womit ich sofort zuneigung gewinnen könnte. Mir ist es schlussendlich gelungen alles rechtzeitig abzugeben. 
