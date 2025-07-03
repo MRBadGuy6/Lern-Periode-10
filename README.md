@@ -54,3 +54,6 @@ Heute habe ich mich nur mit meinem Lebenslauf befasst. Heute ist die Deadline un
 # 20.6.25
 
 Heute habe ich nur am Modul 165 gearbeitet. Ich habe noch an den letzten zwei Handlungszielen gearbeitet. Momentan übertrage ich meine Dokumentation zu Mahra. Das wars. Das hat den ganzen morgen in Anspruch genommen
+
+# 26.6.25
+Heue ist der letzte Tag. Ich habe an Modul 254 gearbeitet. Musste noch ein Paar Aufgaben zu korrigerien damit ich dann in der nächsten Woche nichts mehr zu tun habe. Ich habe viele BPMN erstellt. Habe grosse Fortschritte gemacht. Super. Das wäre es für diese Lernperiode. Nach dem Sommer starte ich mit der Lernperiode 11
